@@ -1,4 +1,4 @@
-// package com.harshu1;
+package com.harshu1;
 // text editor using java
 
 import javax.swing.*;
